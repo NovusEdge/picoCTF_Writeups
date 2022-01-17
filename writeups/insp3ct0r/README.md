@@ -1,4 +1,4 @@
-### Problem Statement:
+### Problem Statement
 ```txt
 Kishor Balan tipped us off that the following code may need inspection:
 https://jupiter.challenges.picoctf.org/problem/9670
@@ -36,7 +36,7 @@ And lastly, when we have a look at the javascript files, we can find the third/l
 <br>
 
 ---
-#### The Flag:
+#### The Flag
     picoCTF{tru3_d3t3ct1ve_0r_ju5t_lucky?2e7b23e3}
 
 

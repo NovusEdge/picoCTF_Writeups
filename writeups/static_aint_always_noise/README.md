@@ -1,4 +1,4 @@
-### Problem Statement:
+### Problem Statement
 ```txt
 Can you look at the data in this binary: "static"? This "BASH script" might help!
 ```
@@ -44,7 +44,7 @@ And there we have it :)
 
 ---
 
-#### Flag:
+#### Flag
     picoCTF{d15a5m_t34s3r_1e6a7731}
 
 

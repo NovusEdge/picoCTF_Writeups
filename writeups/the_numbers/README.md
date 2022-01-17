@@ -1,4 +1,4 @@
-### Problem Statement:
+### Problem Statement
 ```txt
 The "numbers"... what do they mean?
 ```
@@ -27,7 +27,7 @@ The flag: PICOCTF{THENUMBERSMASON}
 
 ---
 
-#### Flag:
+#### Flag
     PICOCTF{THENUMBERSMASON}
 
 Link to the challenge: [The Numbers](https://play.picoctf.org/practice/challenge/68)

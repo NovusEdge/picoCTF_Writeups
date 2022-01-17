@@ -1,10 +1,7 @@
-### Problem Statement:
+### Problem Statement
 ```txt
-
 Files can always be changed in a secret way. Can you find the flag?
 [cat.jpg](https://mercury.picoctf.net/static/a614a27d4cb251d04c7d2f3f3f76a965/cat.jpg)
-
-
 ```
 
 ---
@@ -74,7 +71,7 @@ picoCTF{the_m3tadata_1s_modified}
 We have thus obtained the flag
 
 ---
-#### The Flag:
+#### The Flag
     picoCTF{the_m3tadata_1s_modified}
 
 

@@ -1,4 +1,4 @@
-### Problem Statement:
+### Problem Statement
 ```txt
 Do you know how to move between directories and read files in the shell?
 Start the container, `ssh` to it, and then `ls` once connected to begin.
@@ -64,7 +64,7 @@ ctf-player@pico-chall$ cat 3of3.flag.txt
 
 ---
 
-#### The Flag:
+#### The Flag
     picoCTF{xxsh_0ut_0f_\/\/4t3r_5190b070}
 
 

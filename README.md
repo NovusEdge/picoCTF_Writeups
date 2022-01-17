@@ -14,6 +14,7 @@ A repository containing writeups for CTF challenges on picoCTF
 - [Obedient Cat](writeups/obedient_cat)
 - [Python Wrangling](writeups/python_wrangling)
 - [Static ain't always noise](writeups/static_aint_always_noise)
+- [Stonks](writeups/stonks)
 - [The Numbers](writeups/the_numbers)
 - [Wave A Flag](writeups/wave_a_flag)
 

@@ -1,4 +1,4 @@
-### Problem Statement:
+### Problem Statement
 ```txt
 There is a nice program that you can talk to by using this command in a shell:
 
@@ -70,7 +70,7 @@ $ nc mercury.picoctf.net 43239 > output.txt
 
 Now, we can run the python script to decode the data from `output.txt`
 
-##### Output:
+##### Output
 ```shell
 $ python3 decode_nums.py output.txt
 
@@ -81,7 +81,7 @@ Time Taken: 5.793571472167969e-05
 ---
 
 
-#### Flag:
+#### Flag
     picoCTF{g00d_k1tty!_n1c3_k1tty!_7c0821f5}
 
 

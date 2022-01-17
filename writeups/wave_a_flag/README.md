@@ -1,4 +1,4 @@
-### Problem Statement:
+### Problem Statement
 ```txt
 Can you invoke help flags for a tool or binary? This program has extraordinarily helpful information...
 ```
@@ -10,8 +10,8 @@ Clearly a binary file, when we try and execute it with `./warm`, we get the outp
 
 To work around this we use:
 
-```shell
-chmod +x warm
+```console
+$ chmod +x warm
 ```
 *NOTE: You can find more information about the `chmod` command [here](https://linux.die.net/man/1/chmod)*
 
@@ -20,7 +20,7 @@ chmod +x warm
 
 Once the file has been granted permission, we can use `./warm` to execute the file.
 
-```shell
+```console
 $ ./warm
 Hello user! Pass me a -h to learn what I can do!
 
@@ -30,9 +30,10 @@ Oh, help? I actually don't do much, but I do have this flag here: picoCTF{b1scu1
 
 And thus, we've got the flag. :)
 
+
 ---
 
-#### Flag:
+#### Flag
     picoCTF{b1scu1ts_4nd_gr4vy_755f3544}
 
 Link to the challenge: [Wave A Flag](https://play.picoctf.org/practice/challenge/170)
